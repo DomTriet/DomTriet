@@ -21,7 +21,7 @@ Bilingual (VI/EN) storefront and admin dashboard built and run solo: 13 admin mo
 
 ---
 
-### Academic projects
+### Some of my Academic projects
 
 | Project | What I did | Stack |
 |---|---|---|

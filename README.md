@@ -2,7 +2,7 @@
 
 Fourth-year **Information Systems** student at the University of Science, VNU-HCM (GPA 8.24/10), based in Ho Chi Minh City.  
 I build **backends for real e-commerce businesses**: order and inventory engines, payment webhooks and the data pipelines behind them.  
-Looking forward to be a Backend Developer and growing toward **Data Engineering**.
+Looking forward to becoming a Backend Developer and growing toward **Data Engineering**.
 
 ---
 

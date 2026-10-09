@@ -34,10 +34,17 @@ Bilingual (VI/EN) storefront and admin dashboard built and run solo: 13 admin mo
 ### Tech stack
 
 **Backend** &nbsp; Node.js · Express · REST APIs · Zod · Webhooks (HMAC)  
-**Databases** &nbsp; PostgreSQL · Supabase (Auth, RLS) · Oracle · SQL migrations & transactions  
+**Databases** &nbsp; PostgreSQL · SQL Server · Supabase (Auth, RLS) · Oracle · SQL migrations & transactions  
 **Data** &nbsp; ETL pipelines · Python · pandas · PyTorch · Meta Graph API · Google Sheets API  
 **Frontend** &nbsp; React · Angular · TypeScript · Vite · Tailwind CSS  
 **Tooling** &nbsp; Git · GitHub Actions · Jest · Playwright · Vercel · Railway
+
+### Certifications
+
+[Microsoft SQL Server Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/1UMZ56BSDU99) (Microsoft) ·
+[Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/I9EJ1SMUDCQ2) (University of Michigan) ·
+[SQL Window Functions for Analytics](https://www.coursera.org/account/accomplishments/verify/KOU4P5JTOOZE) (Coursera) ·
+[Programming with JavaScript](https://www.coursera.org/account/accomplishments/verify/YQZQUB2K0YSA) (Meta)
 
 ### How I work
 

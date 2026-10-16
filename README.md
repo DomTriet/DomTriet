@@ -53,4 +53,4 @@ I write the specification, design the schema and architecture, and use Claude Co
 
 ---
 
-📫 domquangminhtriet17@gmail.com · [LinkedIn](https://www.linkedin.com/in/domquangminhtriet)
+🌐 [Portfolio](https://domtriet.github.io) · 📫 domquangminhtriet17@gmail.com · [LinkedIn](https://www.linkedin.com/in/domquangminhtriet)

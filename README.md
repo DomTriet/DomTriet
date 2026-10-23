@@ -2,7 +2,7 @@
 
 Fourth-year **Information Systems** student at the University of Science, VNU-HCM (GPA 8.24/10), based in Ho Chi Minh City.  
 I build **backends for real e-commerce businesses**: order and inventory engines, payment webhooks and the data pipelines behind them.  
-Looking forward to becoming a Backend Developer and growing toward **Data Engineering**.
+Open to Backend Developer internships and graduate roles in Ho Chi Minh City, growing toward **Data Engineering**.
 
 ---
 
@@ -28,7 +28,6 @@ Bilingual (VI/EN) storefront and admin dashboard built and run solo: 13 admin mo
 | [Voucher Marketplace](https://github.com/DomTriet/voucher-marketplace) · e-commerce course project ([demo](https://ec-nhom3.vercel.app)) | Team of 4: backend + Next.js frontend, layered API, PayPal/Stripe sandbox | Next.js, Express/TypeScript, Drizzle ORM, Supabase Auth |
 | [HomeStay Dorm](https://github.com/DomTriet/homestay-dorm-management) · dormitory management | Backend developer (team of 4): analysis & design, room/bed search, rental requests, viewing bookings, CI fixes to pass a 70% Jest coverage gate | Angular, TypeScript, Node.js, Express, Supabase |
 | [Hospital Data Security on Oracle](https://github.com/DomTriet/oracle-admin-hospital-security) | Built the core of Subsystem 1 (team of 5): Oracle admin app for users, roles, grants/revokes with `WITH GRANT OPTION` and column-level privileges | C# WinForms, Oracle (RBAC, VPD, OLS, FGA) |
-| Graduation thesis *(in progress)* | Time-aware knowledge-graph recommender extending KGAT; preprocessing, KG construction, leakage-free splits, Recall/NDCG/Hit Ratio evaluation | Python, pandas, PyTorch |
 
 ---
 

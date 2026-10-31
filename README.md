@@ -17,7 +17,7 @@ Bilingual (VI/EN) e-commerce platform and admin system that replaced Haravan for
 - Daily **Meta Ads ETL** (Graph API → PostgreSQL) for ROAS/CTR/CPC dashboards; reconciles with the cost ledger within 1%
 
 **BrownVN** · [brownvn.com](https://brownvn.com) · *Freelance, 01/2026 – now*  
-Bilingual (VI/EN) storefront and admin dashboard built and run solo: 13 admin modules, ~71 REST endpoints, FIFO inventory, COD / bank / PayPal checkout, GHN shipping and financial reports.
+Bilingual (VI/EN) storefront and admin dashboard built and run end to end: 13 admin modules, ~71 REST endpoints, FIFO inventory, COD / bank / PayPal checkout, GHN shipping and financial reports.
 
 ---
 
@@ -27,7 +27,7 @@ Bilingual (VI/EN) storefront and admin dashboard built and run solo: 13 admin mo
 |---|---|---|
 | [Voucher Marketplace](https://github.com/DomTriet/voucher-marketplace) · e-commerce course project ([demo](https://ec-nhom3.vercel.app)) | Team of 4: backend + Next.js frontend, layered API, PayPal/Stripe sandbox | Next.js, Express/TypeScript, Drizzle ORM, Supabase Auth |
 | [HomeStay Dorm](https://github.com/DomTriet/homestay-dorm-management) · dormitory management | Backend developer (team of 4): analysis & design, room/bed search, rental requests, viewing bookings, CI fixes to pass a 70% Jest coverage gate | Angular, TypeScript, Node.js, Express, Supabase |
-| [Hospital Data Security on Oracle](https://github.com/DomTriet/oracle-admin-hospital-security) | Built the core of Subsystem 1 (team of 5): Oracle admin app for users, roles, grants/revokes with `WITH GRANT OPTION` and column-level privileges | C# WinForms, Oracle (RBAC, VPD, OLS, FGA) |
+| [Hospital Data Security on Oracle](https://github.com/DomTriet/oracle-admin-hospital-security) | Worked on Subsystem 1 (team of 5): Oracle admin app for users, roles, grants/revokes with `WITH GRANT OPTION` and column-level privileges | C# WinForms, Oracle (RBAC, VPD, OLS, FGA) |
 
 ---
 
